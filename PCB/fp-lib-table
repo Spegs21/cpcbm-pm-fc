@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name ANT_PD)(type KiCad)(uri ${KIPRJMOD}/ANT_PD.pretty)(options "")(descr ""))
+)
